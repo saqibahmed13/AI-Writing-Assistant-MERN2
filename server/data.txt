@@ -1,0 +1,2 @@
+install thunder client to do postman things
+once install type node --watch filename(app) 
